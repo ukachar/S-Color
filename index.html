@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="hr">
   <head>
     <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8" />
-    <title>Skeleton: Responsive CSS Boilerplate</title>
+    <title>S-Color kalkulatori</title>
     <meta name="description" content="" />
-    <meta name="author" content="" />
+    <meta name="author" content="ukachar" />
 
     <!-- Mobile Specific Metas
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -50,38 +50,8 @@
               >Try Skeleton</a
             >
           </div>
-          <div class="one-half column phones">
-            <img class="phone" src="images/iphone.png" />
-            <img class="phone" src="images/iphone.png" />
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="section values">
-      <div class="container">
-        <div class="row">
-          <div class="one-third column value">
-            <h2 class="value-multiplier">67%</h2>
-            <h5 class="value-heading">Purchase Increase</h5>
-            <p class="value-description">
-              Percentage of users more likely to purchase on mobile friendly
-              site.
-            </p>
-          </div>
-          <div class="one-third column value">
-            <h2 class="value-multiplier">90%</h2>
-            <h5 class="value-heading">Multi-device Users</h5>
-            <p class="value-description">
-              Most of the world accesses the internet on multiple devices.
-            </p>
-          </div>
-          <div class="one-third column value">
-            <h2 class="value-multiplier">66%</h2>
-            <h5 class="value-heading">Sad Users</h5>
-            <p class="value-description">
-              Percentage of users that are frustrated with page load times.
-            </p>
+          <div class="one-half column">
+            <img class="phone" src="img/logo.png" />
           </div>
         </div>
       </div>
@@ -92,6 +62,7 @@
         <h3 class="section-heading">Izračun marže</h3>
         <p class="section-description">
           <input
+            style="width: 230px"
             type="number"
             name="marza_pc"
             id="marza_pc"
@@ -112,7 +83,68 @@
         </p>
         <p class="section-description" id="rezultat_marze"></p>
       </div>
+      <br />
+      <br />
+      <br />
+      <div class="container">
+        <h3 class="section-heading">Izračun stiropora u kubike</h3>
+        <p class="section-description">
+          <input
+            style="width: 210px"
+            type="number"
+            name="kvadr_stir"
+            id="kvadr_stir"
+            placeholder="Kvadratura stiropora (m2)"
+          />
+          <input
+            type="number"
+            name="kvadr_bunt"
+            id="kvadr_bunt"
+            placeholder="Kvadratura bunta"
+          />
+          <input
+            type="button"
+            value="Izračunaj"
+            id="kubici_gumb"
+            onclick="izracun_stir_kubika()"
+          />
+        </p>
+        <p class="section-description" id="rezultat_kubika"></p>
+      </div>
+    
+    <br />
+    <br />
+    <br />
+    <div class="container">
+      <h3 class="section-heading">Izračun ostatka rabata</h3>
+      <h5>(Koliko rabata ostaje)</h5>
+      <p class="section-description">
+        <input
+          style="width: 210px"
+          type="number"
+          name="ostrbt_nc"
+          id="ostrbt_nc"
+          placeholder="Nabavna cijena (NC)"
+        />
+        <input
+        style="width: 210px"
+          type="number"
+          name="ostrbt_vpc"
+          id="ostrbt_vpc"
+          placeholder="Veleprodajna cijena (VPC)"
+        />
+        <input
+          type="button"
+          value="Izračunaj"
+          id="kubici_gumb"
+          onclick="izracun_ostrbt()"
+        />
+      </p>
+      <p class="section-description" id="rezultat_ostrbt"></p>
     </div>
+  </div>
+</div>
+    <div class="section"></div>
 
     <div class="section categories">
       <div class="container">
