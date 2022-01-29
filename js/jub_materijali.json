@@ -1,0 +1,204 @@
+{
+  "ljepilo": [
+    {
+      "naziv": "Jubizol Ultralight fix",
+      "namjena": "za lijepljenje i armiranje u debljini od 6 mm",
+      "potrosnja": 6,
+      "opis potrosnje": "kg/m2 jednoslojni nanos"
+    },
+    {
+      "naziv": "Jubizol Strong fix",
+      "namjena": "za lijepljenje i armiranje u debljini od 6 mm",
+      "potrosnja": 6,
+      "opis potrosnje": "kg/m2 jednoslojni nanos"
+    },
+    {
+      "naziv": "Jubizol Microair fix",
+      "namjena": "za lijepljenje i armiranje u debljini od 3 mm",
+      "potrosnja": 4,
+      "opis potrosnje": "kg/m2 jednoslojni nanos"
+    },
+    {
+      "naziv": "Jubizol Premium fix",
+      "stari naziv": "JUBIZOL Lepilna malta",
+      "namjena": "za lijepljenje i armiranje u debljini od 3 mm",
+      "potrosnja": 4,
+      "opis potrosnje": "kg/m2 jednoslojni nanos"
+    },
+    {
+      "naziv": "Jubizol EPS fix",
+      "stari naziv": "JUBIZOL EPS Lepilna malta",
+      "namjena": "za lijepljenje i armiranje EPS-a u debljini od 3 mm",
+      "potrosnja": 4,
+      "opis potrosnje": "kg/m2 jednoslojni nanos"
+    },
+    {
+      "naziv": "Jubizol Start fix",
+      "stari naziv": "JUBIZOL ljepilo",
+      "namjena": "za lijepljenje",
+      "potrosnja": 4.25,
+      "opis potrosnje": "kg/m2 jednoslojni nanos"
+    },
+    {
+      "naziv": "Jubizol PUR ljepilo",
+      "namjena": "za brtvljenje, zapunjavanje, popravke pri izoliranju",
+      "potrosnja": 0.1,
+      "opis potrosnje": "l/m2"
+    }
+  ],
+  "tiple": [
+    {
+      "naziv": "JUBIZOL sidra/tiple",
+      "potrosnja": 6,
+      "opis potrosnje": "kom/m2"
+    },
+    {
+      "naziv": "JUBIZOL armaturna mrežica",
+      "potrosnja": 1.1,
+      "opis potrosnje": "m/m2"
+    }
+  ],
+  "grund": [
+    {
+      "naziv": "JUBIZOL Unigrund",
+      "potrosnja": 0.18,
+      "opis potrosnje": "kg/m2"
+    }
+  ],
+  "zavrsni": [
+    {
+      "naziv": "JUBIZOL Aerogel finish S 1,5",
+      "opis": "silikonska zaglađena žbuka hibridne tehnologije: bazaltna + karbonska vlakna + aerogel, (S-smooth)",
+      "potrosnja": 2.3,
+      "opis potrosnje": "kg/M2",
+      "id_value": "agfs15"
+    },
+    {
+      "naziv": "JUBIZOL Aerogel finish S 2,0",
+      "opis": "silikonska zaglađena žbuka hibridne tehnologije: bazaltna + karbonska vlakna + aerogel, (S-smooth)",
+      "potrosnja": 2.9,
+      "opis potrosnje": "kg/M2",
+      "id_value": "agfs20"
+    },
+    {
+      "naziv": "JUBIZOL Nano finish S 1,5",
+      "opis": "samočisteća silikonska zaglađena žbuka",
+      "potrosnja": 2.4,
+      "opis potrosnje": "kg/M2",
+      "id_value": "nnfs15"
+    },
+    {
+      "naziv": "JUBIZOL Nano finish S 2,0",
+      "opis": "samočisteća silikonska zaglađena žbuka",
+      "potrosnja": 3.0,
+      "opis potrosnje": "kg/M2",
+      "id_value": "nnfs20"
+    },
+    {
+      "naziv": "JUBIZOL Silicone finish S 1,5",
+      "opis": "silikonska zaglađena žbuka",
+      "potrosnja": 2.4,
+      "opis potrosnje": "kg/M2",
+      "id_value": "scfs15"
+    },
+    {
+      "naziv": "JUBIZOL Silicone finish S 2,0",
+      "opis": "silikonska zaglađena žbuka",
+      "potrosnja": 3,
+      "opis potrosnje": "kg/M2",
+      "id_value": "scfs20"
+    },
+    {
+      "naziv": "JUBIZOL Silicone finish T 2,0",
+      "opis": "silikonska zaribana žbuka",
+      "potrosnja": 2.8,
+      "opis potrosnje": "kg/M2",
+      "id_value": "scft20"
+    },
+    {
+      "naziv": "JUBIZOL Acryl finish S 1,5",
+      "opis": "akrilna zaglađena žbuka",
+      "potrosnja": 2.5,
+      "opis potrosnje": "kg/M2",
+      "id_value": "acfs15"
+    },
+    {
+      "naziv": "JUBIZOL Acryl finish S 2,0",
+      "opis": "akrilna zaglađena žbuka",
+      "potrosnja": 3,
+      "opis potrosnje": "kg/M2",
+      "id_value": "acfs20"
+    },
+    {
+      "naziv": "JUBIZOL Acryl finish T 2,0",
+      "opis": "akrilna zaribana žbuka",
+      "potrosnja": 2.5,
+      "opis potrosnje": "kg/M2",
+      "id_value": "scft20"
+    },
+    {
+      "naziv": "JUBIZOL Silicate finish S 1,5",
+      "opis": "silikatna zaglađena žbuka",
+      "potrosnja": 2.4,
+      "opis potrosnje": "kg/M2",
+      "id_value": "slfs15"
+    },
+    {
+      "naziv": "JUBIZOL Silicate finish S 2,0",
+      "opis": "silikatna zaglađena žbuka",
+      "potrosnja": 2.9,
+      "opis potrosnje": "kg/M2",
+      "id_value": "slfs20"
+    },
+    {
+      "naziv": "JUBIZOL Trend finish S 1,5",
+      "opis": "akrilna zaglađena žbuka - intenzivne nijanse",
+      "potrosnja": 2.5,
+      "opis potrosnje": "kg/M2",
+      "id_value": "tdfs15"
+    },
+    {
+      "naziv": "JUBIZOL Trend finish S 2,0",
+      "opis": "akrilna zaglađena žbuka - intenzivne nijanse",
+      "potrosnja": 3,
+      "opis potrosnje": "kg/M2",
+      "id_value": "tdfs20"
+    },
+    {
+      "naziv": "JUBIZOL Trend finish T 2,0",
+      "opis": "akrilna zaribana žbuka - intenzivne nijanse",
+      "potrosnja": 2.5,
+      "opis potrosnje": "kg/M2",
+      "id_value": "tdft20"
+    }
+  ],
+  "podnožje": [
+    {
+      "naziv": "JUBIZOL Kulirplast 1.8mm premium",
+      "potrosnja": 4.5,
+      "opis potrosnje": "kg/m2"
+    }
+  ],
+  "dodaci": [
+    {
+      "naziv": "JUBIZOL ALU osnovna letva",
+      "potrosnja": 0.16,
+      "opis potrosnje": "m/m2"
+    },
+    {
+      "naziv": "JUBIZOL kutnik s mrežicom",
+      "potrosnja": 0.3,
+      "opis potrosnje": "m/m2"
+    },
+    {
+      "naziv": "JUBIZOL špaletni profil",
+      "potrosnja": 0.2,
+      "opis potrosnje": "m/m2"
+    },
+    {
+      "naziv": "JUBIZOL okapni profil",
+      "potrosnja": 0.2,
+      "opis potrosnje": "m/m2"
+    }
+  ]
+}
