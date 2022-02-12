@@ -123,3 +123,12 @@ const izracunJubFasade = () => {
       });
   }
 };
+
+//Izračun kubika u kvadrate
+const izracunKuk = () => {
+  const kukCijena = document.getElementById("kukCijena").value;
+  const kukStiropor = document.getElementById("kukStiropor").value;
+  const rezultatiKuk = document.getElementById("rezultatiKuk");
+  let izracun = (kukCijena / 100) * kukStiropor;
+  rezultatiKuk.innerHTML = `<p>${izracun.toFixed(3)} m2</p>`;
+};
